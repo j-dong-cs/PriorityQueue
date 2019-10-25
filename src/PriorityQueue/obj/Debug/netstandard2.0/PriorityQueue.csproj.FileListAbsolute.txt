@@ -1,0 +1,8 @@
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/bin/Debug/netstandard2.0/PriorityQueue.deps.json
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/bin/Debug/netstandard2.0/PriorityQueue.dll
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/bin/Debug/netstandard2.0/PriorityQueue.pdb
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.csprojAssemblyReference.cache
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.AssemblyInfoInputs.cache
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.AssemblyInfo.cs
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.dll
+/Users/jingjingdong/CSharp_Class_Library/priorityQueue/src/PriorityQueue/obj/Debug/netstandard2.0/PriorityQueue.pdb
