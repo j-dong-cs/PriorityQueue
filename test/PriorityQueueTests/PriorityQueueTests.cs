@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using PriorityQueue;
 
 namespace PriorityQueueTests
 {
@@ -8,7 +9,8 @@ namespace PriorityQueueTests
         [Fact]
         public void Test1()
         {
-            var queue = new HeapPriorityQueue();
+            var heap = new HeapPriorityQueue<int>();
+            
         }
     }
 }

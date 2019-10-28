@@ -2,9 +2,17 @@ using System;
 using System.Collections.Generic;
 using PriorityQueue;
 
-namespace HeapPriorityQueue {
+namespace PriorityQueue {
+    /*
+     * A collection of ordered elements that provides fast
+     * access to the minimum element.
+     */
     public class HeapPriorityQueue<T> : PriorityQueue<T>
     {
+        // Default Constructor
+        public HeapPriorityQueue() {
+
+        }
         public int Count { get; set; }
 
         public bool Add(T value) {
