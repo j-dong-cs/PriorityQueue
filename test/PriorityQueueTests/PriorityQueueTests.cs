@@ -8,7 +8,7 @@ namespace PriorityQueueTests
         [Fact]
         public void Test1()
         {
-
+            var queue = new HeapPriorityQueue();
         }
     }
 }
