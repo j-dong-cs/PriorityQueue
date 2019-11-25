@@ -122,6 +122,8 @@ namespace PriorityQueue
             return result;
         }
 
+        // This method removes the target element in the queue if exits and returns true;
+        // Otherwise, returns false
         public bool Remove(T element) 
         {
             if (size == 0) return false;
