@@ -15,8 +15,7 @@ namespace PriorityQueue
 
     public interface PriorityQueue<T>
     {
-        // need to implement IEnumerable<T>
-        bool Add(T value);
+        void Add(T value);
 
         void Clear();
 
